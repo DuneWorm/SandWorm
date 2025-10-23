@@ -1,2 +1,0 @@
-git config --global (For the entire username and email address.) (global setting)
-man git (For git help)
